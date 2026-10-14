@@ -20,7 +20,7 @@ A command-line AI assistant built in Python that uses Google's Gemini API to und
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/AI-Personal-Assistant.git
+   git clone https://github.com/<I181-blip>/AI-Personal-Assistant.git
    cd AI-Personal-Assistant
    ```
 
